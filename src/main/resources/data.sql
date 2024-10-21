@@ -1,0 +1,1 @@
+INSERT INTO "ROLE" values ( 1,'User' );
